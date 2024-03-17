@@ -14,6 +14,6 @@ const metadata: TokenMetadata = {
   mint: mint.publicKey,
   name: "My SPL Journey",
   symbol: "JOURNEY",
-  uri: "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/metadata.json",
+  uri: "https://raw.githubusercontent.com/1devNdogs/spl-journey/main/metadata.json",
   additionalMetadata: [["description", "My SPL Journey"]],
 };
